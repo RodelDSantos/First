@@ -2,4 +2,4 @@
 My first website
 
 ## My favorite class
-![awesome](Welcome to CIS 305.png)
+![awesome](CIS 305 -  Software Engineering.png)
